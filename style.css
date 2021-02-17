@@ -1,0 +1,116 @@
+#saylanilogo{
+    text-align: center;
+}
+*{
+    background-color: white;
+}
+#divcenter{
+    margin:0 auto;
+    width: 1100px;
+}
+.hfont{
+    font-family: Roboto,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 500;
+    text-align: center;
+
+}
+.star{
+    color: red;
+}
+.b1{
+    color: rgba(0, 0, 0, 0.54);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1;
+
+}
+#b2{
+    color: rgba(0, 0, 0, 0.54);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1;
+    border: hidden;
+    border-bottom-width: thick;
+    border-bottom: 1px solid black;
+    width: 510px;
+}
+#b3{
+    color: rgba(0, 0, 0, 0.54);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1;
+    border: hidden;
+    border-bottom-width: thick;
+    border-bottom: 1px solid black;
+    text-align: center;
+    width: 510px;
+}
+.bfont{
+    color: rgba(0, 0, 0, 0.54);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1;
+}
+.sfont{
+    color: rgba(0, 0, 0, 0.54);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1;
+    font-size: smaller;
+}
+.border{
+    border: hidden;
+    border-bottom-width: thick;
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin: 20px auto;
+}
+.margin{
+    margin: 20px auto;
+}
+#date{
+    border: hidden;
+    border-bottom-width: thick;
+    border-bottom: 1px solid black;
+}
+#age{
+    border: hidden;
+    border-bottom-width: thin;
+    border-bottom-style: dotted;
+    width: 510px;
+}
+.olfont{
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.button{
+    color: rgba(255, 255, 255, 1);
+    background-color: #3f51b5;
+    box-shadow: 0px 1px 5px 0px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 3px 1px -2px rgb(0 0 0 / 12%);
+    display: inline-flex;
+    padding: 11px 16px;
+    font-size: 14px;
+    min-width: 88px;
+    box-sizing: border-box;
+    min-height: 36px;
+    transition: background-color 250ms;
+    font-weight: 500;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1em;
+    align-items: center;
+    border-radius: 2px;
+    text-transform: uppercase;
+    justify-content: center;
+    border: 0;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    appearance: none;
+    user-select: none;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    /* -webkit-writing-mode: horizontal-tb !important; */
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: center;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
